@@ -7,3 +7,4 @@ This project demonstrates Jenkins CI/CD integration with GitHub.
 1. Checkout
 2. Build
 3. Test
+GitHub webhook test
